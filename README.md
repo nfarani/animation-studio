@@ -1,4 +1,12 @@
-# Animation Studio — Production Director agent for Claude Code
+# Animation Studio
+
+An agent-driven pipeline for Claude Code that turns a script into a finished animated episode, with an approval gate before any paid generation.
+
+**Case study:** [https://niccolas-farani.pages.dev/work/ai-animation-production-agent](https://niccolas-farani.pages.dev/work/ai-animation-production-agent/)
+
+![Animation Studio preview](docs/media/preview.webp)
+
+---
 
 ## Install
 1. Unzip anywhere, then:  cd animation-studio  &&  claude
